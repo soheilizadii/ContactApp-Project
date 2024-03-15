@@ -1,0 +1,26 @@
+.container{
+    text-align: centers;
+}
+.container h1{
+    color:#262694;
+}
+.container p{
+    margin:10px;
+}
+.container span{
+   color:rgb(45, 45, 45);
+}
+.container a{
+    text-decoration: none;
+    color:#262694;
+    padding: 3px;
+    border-radius: 10px;
+    transition: 0.3s all ease-in-out;
+}
+.container a:hover{
+  text-decoration: none;
+  color: white;
+  background-color: #262694;
+  padding: 3px 7px;
+  border-radius: 8px;
+}
